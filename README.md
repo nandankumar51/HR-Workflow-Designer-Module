@@ -33,7 +33,7 @@ The application demonstrates a modular, component-driven architecture with real-
 
 ## Architecture
 <p align="center">
-  <img src="./HR-Workflow-Designer-Module/docs/image.png" width="600" height="400" />
+  <img src="./docs/image.png" width="600" height="400" />
 </p>
 
 ## Workflow
